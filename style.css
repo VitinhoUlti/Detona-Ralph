@@ -47,7 +47,9 @@ section{
     border: 1px solid black;
 }
 #Ralph{
-    background-color: white;
+    background: url(imagens/detona\ ralph.jpg);
+    background-size: cover;
+    background-position: center;
 }
 @media screen and (min-width:450px){
     .bloco{
