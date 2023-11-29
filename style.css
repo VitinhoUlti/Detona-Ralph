@@ -3,6 +3,7 @@
     margin: 0%;
     padding: 0;
     overflow: hidden;
+    background-size: cover;
 }
 h1, h2{
     font-size: 5vw;
@@ -49,6 +50,7 @@ section{
 #Ralph{
     background: url(imagens/detonaralph.jpg);
     background-size: cover;
+    background-position: center;
 }
 @media screen and (min-width:450px){
     .bloco{
